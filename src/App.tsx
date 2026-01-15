@@ -28,7 +28,7 @@ export function App() {
   return (
     <div className="app">
       <header className="appHeader">
-        <h1>Concerts</h1>
+        <h1 className="text-center">Concerts</h1>
 
         <div className="sortBar">
           <label htmlFor="sortBy">Sort by</label>
